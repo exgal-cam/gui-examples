@@ -17,3 +17,4 @@ At the moment, the necessary dependencies are installed with
 ```
 conda install numpy matplotlib astropy scipy
 ```
+![alt text](https://github.com/exgal-cam/gui-examples/blob/main/data/example_images/hover_cube.gif?raw=true)
